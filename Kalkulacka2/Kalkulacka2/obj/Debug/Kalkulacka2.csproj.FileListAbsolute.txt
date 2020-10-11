@@ -1,0 +1,7 @@
+C:\Users\MIKE\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\Kalkulacka2.exe.config
+C:\Users\MIKE\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\Kalkulacka2.exe
+C:\Users\MIKE\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\Kalkulacka2.pdb
+C:\Users\MIKE\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\Kalkulacka2.csprojAssemblyReference.cache
+C:\Users\MIKE\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\Kalkulacka2.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\Kalkulacka2.exe
+C:\Users\MIKE\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\Kalkulacka2.pdb

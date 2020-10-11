@@ -1,0 +1,7 @@
+C:\Users\MIKE\source\repos\Vectors\Vectors\bin\Debug\Vectors.exe.config
+C:\Users\MIKE\source\repos\Vectors\Vectors\bin\Debug\Vectors.exe
+C:\Users\MIKE\source\repos\Vectors\Vectors\bin\Debug\Vectors.pdb
+C:\Users\MIKE\source\repos\Vectors\Vectors\obj\Debug\Vectors.csprojAssemblyReference.cache
+C:\Users\MIKE\source\repos\Vectors\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\source\repos\Vectors\Vectors\obj\Debug\Vectors.exe
+C:\Users\MIKE\source\repos\Vectors\Vectors\obj\Debug\Vectors.pdb
