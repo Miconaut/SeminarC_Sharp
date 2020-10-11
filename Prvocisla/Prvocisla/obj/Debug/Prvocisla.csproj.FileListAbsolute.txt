@@ -1,0 +1,7 @@
+C:\Users\MIKE\source\repos\Prvocisla\Prvocisla\bin\Debug\Prvocisla.exe.config
+C:\Users\MIKE\source\repos\Prvocisla\Prvocisla\bin\Debug\Prvocisla.exe
+C:\Users\MIKE\source\repos\Prvocisla\Prvocisla\bin\Debug\Prvocisla.pdb
+C:\Users\MIKE\source\repos\Prvocisla\Prvocisla\obj\Debug\Prvocisla.csprojAssemblyReference.cache
+C:\Users\MIKE\source\repos\Prvocisla\Prvocisla\obj\Debug\Prvocisla.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\source\repos\Prvocisla\Prvocisla\obj\Debug\Prvocisla.exe
+C:\Users\MIKE\source\repos\Prvocisla\Prvocisla\obj\Debug\Prvocisla.pdb
