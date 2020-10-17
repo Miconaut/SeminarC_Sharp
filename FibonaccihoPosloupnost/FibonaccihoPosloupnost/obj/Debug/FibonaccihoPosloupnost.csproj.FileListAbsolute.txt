@@ -1,0 +1,7 @@
+C:\Users\MIKE\source\repos\FibonaccihoPosloupnost\FibonaccihoPosloupnost\bin\Debug\FibonaccihoPosloupnost.exe.config
+C:\Users\MIKE\source\repos\FibonaccihoPosloupnost\FibonaccihoPosloupnost\bin\Debug\FibonaccihoPosloupnost.exe
+C:\Users\MIKE\source\repos\FibonaccihoPosloupnost\FibonaccihoPosloupnost\bin\Debug\FibonaccihoPosloupnost.pdb
+C:\Users\MIKE\source\repos\FibonaccihoPosloupnost\FibonaccihoPosloupnost\obj\Debug\FibonaccihoPosloupnost.csprojAssemblyReference.cache
+C:\Users\MIKE\source\repos\FibonaccihoPosloupnost\FibonaccihoPosloupnost\obj\Debug\FibonaccihoPosloupnost.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\source\repos\FibonaccihoPosloupnost\FibonaccihoPosloupnost\obj\Debug\FibonaccihoPosloupnost.exe
+C:\Users\MIKE\source\repos\FibonaccihoPosloupnost\FibonaccihoPosloupnost\obj\Debug\FibonaccihoPosloupnost.pdb
