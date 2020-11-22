@@ -1,0 +1,7 @@
+C:\Users\MIKE\source\repos\TestGymvod1\TestGymvod1\bin\Debug\TestGymvod1.exe.config
+C:\Users\MIKE\source\repos\TestGymvod1\TestGymvod1\bin\Debug\TestGymvod1.exe
+C:\Users\MIKE\source\repos\TestGymvod1\TestGymvod1\bin\Debug\TestGymvod1.pdb
+C:\Users\MIKE\source\repos\TestGymvod1\TestGymvod1\obj\Debug\TestGymvod1.csprojAssemblyReference.cache
+C:\Users\MIKE\source\repos\TestGymvod1\TestGymvod1\obj\Debug\TestGymvod1.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\source\repos\TestGymvod1\TestGymvod1\obj\Debug\TestGymvod1.exe
+C:\Users\MIKE\source\repos\TestGymvod1\TestGymvod1\obj\Debug\TestGymvod1.pdb
