@@ -1,0 +1,10 @@
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\bin\Debug\TestGymvod2.exe.config
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\bin\Debug\TestGymvod2.exe
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\bin\Debug\TestGymvod2.pdb
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\obj\Debug\TestGymvod2.csprojAssemblyReference.cache
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\obj\Debug\TestGymvod2.Form1.resources
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\obj\Debug\TestGymvod2.Properties.Resources.resources
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\obj\Debug\TestGymvod2.csproj.GenerateResource.cache
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\obj\Debug\TestGymvod2.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\obj\Debug\TestGymvod2.exe
+C:\Users\MIKE\source\repos\TestGymvod2\TestGymvod2\obj\Debug\TestGymvod2.pdb
